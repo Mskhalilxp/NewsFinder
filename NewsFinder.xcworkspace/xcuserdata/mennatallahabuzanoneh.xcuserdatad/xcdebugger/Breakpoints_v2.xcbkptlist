@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9047389D-6B42-44CF-A759-FF366853D8A9"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "721C12D5-A955-42E5-AEE2-333853D850EC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFinder/ViewModel/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "793CFABD-93FF-4903-8F5D-0A4268DDED4F"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFinder/View/NewsFilterViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "doneTapped(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E040142-ACC4-4ECF-8DD4-4F30C0B900FB"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFinder/ViewModel/NewsViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8746D8CA-2E49-481A-BEE8-882D105C5673"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFinder/NewsDataRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "getAll(country:category:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8746D8CA-2E49-481A-BEE8-882D105C5673 - ab1ce8c4a7b8b58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (NewsFinder.NetworkResponse&lt;NewsFinder.NewDataModel&gt;) -&gt; () in NewsFinder.NewsDataRepository.getAll(country: Swift.String, category: Swift.String, completion: (Swift.Array&lt;NewsFinder.NewCellViewModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NewsFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mennatallahabuzanoneh/Documents/NewsFinder/NewsFinder/NewsDataRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "266">
+               </Location>
+               <Location
+                  uuid = "8746D8CA-2E49-481A-BEE8-882D105C5673 - ab1ce8c4a7b8b58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (NewsFinder.NetworkResponse&lt;NewsFinder.NewDataModel&gt;) -&gt; () in NewsFinder.NewsDataRepository.getAll(country: Swift.String, category: Swift.String, completion: (Swift.Array&lt;NewsFinder.NewCellViewModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NewsFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mennatallahabuzanoneh/Documents/NewsFinder/NewsFinder/NewsDataRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "715E362B-4FE6-4C3E-9ABC-8BBAA32622C5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFinder/NewsDataRepository.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "getAll(country:category:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "715E362B-4FE6-4C3E-9ABC-8BBAA32622C5 - ab1ce8c4a7b8b58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (NewsFinder.NetworkResponse&lt;NewsFinder.NewDataModel&gt;) -&gt; () in NewsFinder.NewsDataRepository.getAll(country: Swift.String, category: Swift.String, completion: (Swift.Array&lt;NewsFinder.NewCellViewModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NewsFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mennatallahabuzanoneh/Documents/NewsFinder/NewsFinder/NewsDataRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "266">
+               </Location>
+               <Location
+                  uuid = "715E362B-4FE6-4C3E-9ABC-8BBAA32622C5 - ab1ce8c4a7b8b58"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (NewsFinder.NetworkResponse&lt;NewsFinder.NewDataModel&gt;) -&gt; () in NewsFinder.NewsDataRepository.getAll(country: Swift.String, category: Swift.String, completion: (Swift.Array&lt;NewsFinder.NewCellViewModel&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "NewsFinder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/mennatallahabuzanoneh/Documents/NewsFinder/NewsFinder/NewsDataRepository.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "692">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "93CF704C-8AC2-44DA-BE6B-E1A5714D60FF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFinder/ViewModel/FilterNewViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "passTheFilterParams()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0A1A38E9-B300-4194-8DF3-6C5408048BCC"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NewsFinder/Extentions/DataFormatter+dateFromMultipleFormats.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "17"
+            endingLineNumber = "17"
+            landmarkName = "dateFromMultipleFormats(fromString:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
